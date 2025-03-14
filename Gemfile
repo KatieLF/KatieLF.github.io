@@ -1,16 +1,13 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-
 ##co-pilot fixes
 # Gemfile
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.10.0'
+# Use GitHub Pages gem which includes Jekyll
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-terser'
 gem 'faraday-retry'
-##
 
 
 # Core plugins that directly affect site building
