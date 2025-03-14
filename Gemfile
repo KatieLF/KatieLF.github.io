@@ -2,6 +2,17 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 
+##co-pilot fixes
+# Gemfile
+source 'https://rubygems.org'
+
+gem 'jekyll', '~> 3.10.0'
+gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll-terser'
+gem 'faraday-retry'
+##
+
+
 # Core plugins that directly affect site building
 group :jekyll_plugins do
     gem 'jekyll-archives-v2'
