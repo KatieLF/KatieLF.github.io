@@ -13,11 +13,11 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,8 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Greeting's ya'll (you all),
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm Katie L. Friese, an aspiring academic, a auspicious organizer, and a creative/making enthusiast. Since I'm a continual learner I thought I should have a place to document it all. So this is the place on the internet where I put my musings, experiments, and undertakings.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+-The <u>projects</u> tab is where each thing I've worked on is collected all in one place. This is everything from data driven visualization projects to a particular recipe I've perfected in my spare time. Everything is tagged appropriately and there is a search bar in the top right to help you (or me) find exactly what you're looking for.
+-The <u>blog</u> tab is my weekly musings of what I've learned or what I'm currently scheming on. It gets updated weekly (or whenever inspiration strikes me).
+-<u>CV</u> is everything I've ever done professionally. I'm currently looking for an administration or data position in the Twin Cities area. If you sought me out and are interested in hearing more about my particular skill set, contact me <u>here</u>.
+
