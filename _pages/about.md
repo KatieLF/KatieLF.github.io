@@ -2,18 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Lifelong learner|Analytical Strategist|Data enthusiast
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Saint Paul</p>
+    <p>Minnesota</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -34,4 +32,3 @@ I'm Katie L. Friese, an aspiring academic, a auspicious organizer, and a creativ
 - The <u>projects</u> tab is where each thing I've worked on is collected all in one place. This is everything from data driven visualization projects to a particular recipe I've perfected in my spare time. Everything is tagged appropriately and there is a search bar in the top right to help you (or me) find exactly what you're looking for.
 - The <u>blog</u> tab is my weekly musings of what I've learned or what I'm currently scheming on. It gets updated weekly (or whenever inspiration strikes me).
 - <u>CV</u> is everything I've ever done professionally. I'm currently looking for an administration or data position in the Twin Cities area. If you sought me out and are interested in hearing more about my particular skill set, contact me <u>here</u>.
-
