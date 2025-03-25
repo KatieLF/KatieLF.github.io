@@ -135,7 +135,7 @@ ninja.data = [{
           title: 'Fantasy Foods',
           description: "A website I built for university back in 2020",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Fantasy%20Foods/";
+              window.location.href = "/projects/Fantasy_Foods/";
             },},{
         id: 'social-email',
         title: 'email',
