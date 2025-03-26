@@ -27,7 +27,7 @@ latest_posts:
 
 Greeting's ya'll (you all),
 
-I'm Katie L. Friese, an aspiring academic, a auspicious organizer, and a creative/making enthusiast. Since I'm a continual learner I thought I should have a place to document it all. So this is the place on the internet where I put my musings, experiments, and undertakings.
+I'm Katie, an aspiring academic, a auspicious organizer, and a creative/making enthusiast. Since I'm a continual learner I thought I should have a place to document it all. So this is the place on the internet where I put my musings, experiments, and undertakings.
 
 - The <u>projects</u> tab is where each thing I've worked on is collected all in one place. This is everything from data driven visualization projects to a particular recipe I've perfected in my spare time. Everything is tagged appropriately and there is a search bar in the top right to help you (or me) find exactly what you're looking for.
 - The <u>blog</u> tab is my weekly musings of what I've learned or what I'm currently scheming on. It gets updated weekly (or whenever inspiration strikes me).
