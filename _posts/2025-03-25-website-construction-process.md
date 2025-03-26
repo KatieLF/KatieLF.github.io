@@ -9,7 +9,7 @@ categories: update
 
 #### Check List for constructing everything
 
-- [] Remove "news" section (instructions in CUSTOMIZE)
+- [x] Remove "news" section (instructions in CUSTOMIZE)
 - [] Color, background? (found in \_themes.scss)
 - [] Color, highlights (change to a green or cooler purple)(themes.scss)
 - [] Font, body text
@@ -21,7 +21,8 @@ categories: update
 - [x] Home page, intro statement
 - [] Home page, structure
 - [x] Social Media information
-- [] Research Lighthouse Badger
+- [x] Research Lighthouse Badger (I have no need of it now)
+- [] Projects, add relevant categories
 
 <hr>
 
