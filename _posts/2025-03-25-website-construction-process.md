@@ -14,13 +14,13 @@ categories: update
 - [] Color, highlights (change to a green or cooler purple)(themes.scss)
 - [] Font, body text
 - [] Font, header
-- [] Blog, remove example posts
+- [x] Blog, remove example posts
 - [] Blog, write 2 posts
 - [] CV, create (everything everything or targeted?)
-- [] Publication, "coming soon?" sign OR add to 'ignore' section for now?
+- [x] Publication, "coming soon?" sign OR add to 'exclude' section for now?
 - [x] Home page, intro statement
 - [] Home page, structure
-- [] Social Media information
+- [x] Social Media information
 - [] Research Lighthouse Badger
 
 <hr>
