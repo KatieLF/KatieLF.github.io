@@ -103,7 +103,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Katie L. Friese", "_blank");
+          window.open("https://www.linkedin.com/in/katie-l-friese", "_blank");
         },
       },{
       id: 'light-theme',
