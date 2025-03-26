@@ -41,21 +41,26 @@ ninja.data = [{
           window.location.href = "/blog/2025/website-construction-process/";
         
       },
-    },{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-fantasy-foods",
+    },{id: "projects-fantasy-foods",
           title: 'Fantasy Foods',
           description: "A website I built for university back in 2020",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Fantasy_Foods/";
+            },},{id: "projects-npha-intergen",
+          title: 'NPHA-intergen',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NPHA-intergen/";
+            },},{id: "projects-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/example1_project/";
+            },},{id: "projects-project-7",
+          title: 'project 7',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/example2_project/";
             },},{
         id: 'social-email',
         title: 'email',
