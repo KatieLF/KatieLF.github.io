@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lifelong learner|Analytical Strategist|Data enthusiast
+subtitle: Lifelong learner | Analytical strategist | Data enthusiast
 
 profile:
   align: right
