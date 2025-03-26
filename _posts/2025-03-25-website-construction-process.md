@@ -15,11 +15,11 @@ categories: update
 - [] Font, body text
 - [] Font, header
 - [x] Blog, remove example posts
-- [] Blog, write 2 posts
+- [x] Blog/posts, write 2 posts
 - [] CV, create (everything everything or targeted?)
 - [x] Publication, "coming soon?" sign OR add to 'exclude' section for now?
 - [x] Home page, intro statement
-- [] Home page, structure
+- [x] Home page, structure
 - [x] Social Media information
 - [x] Research Lighthouse Badger (I have no need of it now)
 - [] Projects, add relevant categories
