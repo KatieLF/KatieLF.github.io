@@ -10,7 +10,7 @@ categories: update
 #### Check List for constructing everything
 
 - [] Remove "news" section (instructions in CUSTOMIZE)
-- [] Color, background? (found in _themes.scss)
+- [] Color, background? (found in \_themes.scss)
 - [] Color, highlights (change to a green or cooler purple)(themes.scss)
 - [] Font, body text
 - [] Font, header
