@@ -3,7 +3,7 @@ layout: page
 title: Fantasy Foods
 description: A website I built for university back in 2020
 img: assets/img/7.jpg
-importance: 1
+importance: 5
 category: fun
 ---
 
