@@ -7,7 +7,7 @@ tags: presentation, Emotional Regulation
 categories: presentation
 ---
 
-#### Presentation
+#### WIP Presentation
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -15,26 +15,30 @@ categories: presentation
     </div>
 </div>
 <div class="caption">
-    Presented assigned topic at the DANCE lab meeting.
+    Intro slide
 </div>
+
+This was an assigned topic that I presented on during the DANCE Lab meeting.
+What follows is an approximation on what I said.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/HPA axis & ER Presentation 2.png" title="title slide" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    We need a solid starting point, so let's quickly talk about what the HPA axis actually is.
-</div>
+
+But before we talk about the article, we all need a solid foundation on what the HPA axis is.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/HPA axis & ER Presentation 3.png" title="title slide" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Consists of 3 parts...BLANK
-</div>
+
+It consists of three parts (hence HPA).
+The Hypothalamus is the part that starts the whole process and activates the HPA axis process if you will. 
+The Pituitary gland 
+The Adrenal gland
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -141,5 +145,5 @@ categories: presentation
     </div>
 </div>
 <div class="caption">
-    Scienctific notation, always important...BLANK
+    Scientific notation, always important...BLANK
 </div>
