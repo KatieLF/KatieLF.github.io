@@ -9,7 +9,6 @@ categories: presentation
 
 #### Presentation
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/HPA axis & ER Presentation 1.png" title="title slide" class="img-fluid rounded z-depth-1" %}
@@ -144,7 +143,3 @@ categories: presentation
 <div class="caption">
     Scienctific notation, always important...BLANK
 </div>
-
-
-
-
