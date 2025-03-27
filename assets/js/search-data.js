@@ -62,6 +62,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NPHA-intergen/";
+            },},{id: "projects-resources",
+          title: 'Resources',
+          description: "Websites with resources I use frequently",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Resources/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
