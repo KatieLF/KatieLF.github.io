@@ -41,6 +41,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/website-construction-process/";
         
       },
+    },{id: "post-the-hpa-axis-amp-emotional-regulation-presentation",
+      
+        title: "The HPA Axis &amp; Emotional Regulation presentation",
+      
+      description: "documentation on customizing this website",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/HPAxis-and-ER/";
+        
+      },
     },{id: "projects-fantasy-foods",
           title: 'Fantasy Foods',
           description: "A website I built for university back in 2020",
