@@ -36,8 +36,8 @@ But before we talk about the article, we all need a solid foundation on what the
 </div>
 
 It consists of three parts (hence HPA).
-The Hypothalamus is the part that starts the whole process and activates the HPA axis process if you will. 
-The Pituitary gland 
+The Hypothalamus is the part that starts the whole process and activates the HPA axis process if you will.
+The Pituitary gland
 The Adrenal gland
 
 <div class="row">
