@@ -12,3 +12,20 @@ related_publications: false
   I would like to eventually make a giant table with all of this but that is a project for a rainy day.
 
 -
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/inferential-tests.jpg" title="inferential tests" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    For basic tests
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Scribbr-levels-of-measurment.png" title="inferential tests" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    For basic tests
+</div>
