@@ -3,7 +3,7 @@ layout: post
 title: Sourdough tips and tricks
 date: 2025-04-10 16:40:16
 description: a quick and dirty guide to starting sourdough projects
-tags: baking
+tags: baking, recipe
 categories: baking
 ---
 
@@ -30,10 +30,10 @@ But what should you feed this wonderful conglomerate? **A typical feeding as mea
 Here are a few of my favorite sourdough recipes I've tried over the past year or so.
 
 - [Chef John's Sourdough Bread](https://www.allrecipes.com/recipe/260540/chef-johns-sourdough-bread/)
-The most quintessential sourdough recipe, the basic loaf. Tho many call it "basic", I call it delicious with everything that I pair it with. It works well in a loaf pan as well as round and on a baking sheet. Just make sure you get some steam in there to get a nice crackly crust.
+The most quintessential sourdough recipe, the basic loaf. Tho many call it "basic", I call it delicious with everything that I pair it with. It works well in a loaf pan as well as round and on a baking sheet. Just make sure you get some steam in there to get a nice crackly crust. You also don't need to use bread flour if you don't have it. All-purpose is fine.
 - [Sourdough Monkey Bread](https://makeitdough.com/sourdough-monkey-bread/)
 A sweet treat with a lovely tang.
 - [Pumpkin Sourdough Bread](https://www.farmhouseonboone.com/pumpkin-sourdough-bread/)
-Fall in bread form (especially when paired with maple butter). You don't have to go the extra mile with the pumpkin shape, I just shape it like I do a normal loaf.
+Fall in bread form (especially when paired with maple butter). You don't have to go the extra mile with the pumpkin shape, I just shape it like I do a normal loaf. Squash puree is a good substitute if you don't want to buy canned pumpkin.
 
 Reach out to me if you have any and all questions, I love talking about fermentations!
