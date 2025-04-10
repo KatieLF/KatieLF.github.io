@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-website-construction-process",
+        },{id: "post-sourdough-tips-and-tricks",
+      
+        title: "Sourdough tips and tricks",
+      
+      description: "a quick and dirty guide to starting sourdough projects",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Sourdough-tips-and-tricks/";
+        
+      },
+    },{id: "post-website-construction-process",
       
         title: "Website construction process",
       
