@@ -67,16 +67,6 @@ ninja.data = [{
           description: "Websites with resources I use frequently",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Resources/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/example1_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/example2_project/";
             },},{
         id: 'social-email',
         title: 'email',
