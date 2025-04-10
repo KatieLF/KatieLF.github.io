@@ -4,7 +4,7 @@ title: Sourdough tips and tricks
 date: 2025-04-10 16:40:16
 description: a quick and dirty guide to starting sourdough projects
 tags: baking, recipe
-categories: baking
+categories: baking, guide
 ---
 
 This is for a few friends at the DANCE lab that are just getting started in their sourdough adventure and needed a few starting tips.
