@@ -7,6 +7,8 @@ tags: baking
 categories: baking
 ---
 
+This is for a few friends at the DANCE lab that are just getting started in their sourdough adventure and needed a few starting tips.
+
 # Introduction
 
 Welcome to the amazing world of fermentation! That's right! You have a bunch of lovely bacteria and wild yeasts that will help you make fantastic sourdough bread, rolls, and treats galore. 
