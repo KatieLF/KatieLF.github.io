@@ -29,7 +29,7 @@ But what should you feed this wonderful conglomerate? **A typical feeding as mea
 ## Recipes
 Here are a few of my favorite sourdough recipes I've tried over the past year or so.
 
-- [Chef John's Sourdough Bread](https://www.allrecipes.com/recipe/260540/chef-johns-sourdough-bread/])
+- [Chef John's Sourdough Bread](https://www.allrecipes.com/recipe/260540/chef-johns-sourdough-bread/)
 The most quintessential sourdough recipe, the basic loaf. Tho many call it "basic", I call it delicious with everything that I pair it with. It works well in loaf pan as well as round and on a pan.
 - [Sourdough Monkey Bread](https://makeitdough.com/sourdough-monkey-bread/)
 A sweet treat with a lovely tang.
