@@ -32,3 +32,6 @@ I want this website to be professional but also have a lot of personal touch and
 > —Ms. Frizzle
 
 This will be my mantra as I create and customize everything. It's a fantastic learning experience.
+
+_update 4-17-25_
+I'm in a bit of a holding pattern with this website project. I want to add more content that relates to my skills as a researcher and data person but apparently I have not made many (if any) good projects to showcase that! So now I feel I need to make content before I can work on aesthetics any more...
