@@ -23,7 +23,10 @@ Just like with any leaving thing you need to feed it. But, like a cat, it doesn'
 
 But what should you feed this wonderful conglomerate? **A typical feeding as measured in grams (oh yeah, a scale will be your best friend in sourdough baking) is 1 part flour, 1 part water, and a bit of starter.** How fast it ferments depends on how much starter you add, the ambient temperature, what minerals are in your water, etc. etc.
 
+If you forget to feed your starter one day or leave it in the fridge to lay dormant for a while, it will probably develop a blackish water floating on top of your starter. FEAR NOT! That's actually the sign of a healthy starter. It's getting rid of stuff it doesn't need as it lies sleeping. Just dump off the liquid and feed your starter as normal. It might need a little more water to get the consistency right but it doesn't matter terribly.
+
 **Working with sourdough is a combination art and science.** One the one hand, most recipes are measured in grams, starters can be sensitive to the most random things, and you tend to get the most consistent results if you yourself are consistent. On the other hand, there are many bakers who go purely by consistency and vibe of the dough and their creations turn out fantastic (I stand by the fact that it's subconscious experience on their part but whatever).
+What ever you do, starters are strong and surprisingly resilient! If it looks or feels like you killed it, take a little bit of starter and try to revitalize it in a new jar with daily feedings.
 
 ## Recipes
 
