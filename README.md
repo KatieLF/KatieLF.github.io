@@ -18,3 +18,7 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
 [^1]: Requires Bundler. Install with `gem install bundler`.
 
 [download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+
+
+
+# This is the command to run the website locally, do it in the terminal. $ bundle exec jekyll serve
