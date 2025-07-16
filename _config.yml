@@ -51,9 +51,9 @@ menu:
   - title:             Projects
     url:               /projects/
   - title:             Resume
-    url:               /docs/
+    url:               /resume/
   - title:             Blog
-    url:               /blog/
+    url:               /example/
   - title:             About
     url:               /about/
 
