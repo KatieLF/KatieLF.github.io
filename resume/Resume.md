@@ -4,7 +4,7 @@ title: Resume
 description: >
   A brief description of all that Katie L. Friese has done professionally
 hide_description: true
-sitemap: false
+sitemap: true
 ---
 
 Katie L. Friese
