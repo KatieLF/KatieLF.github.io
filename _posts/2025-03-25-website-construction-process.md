@@ -21,7 +21,7 @@ categories: update
 - [x] Home page, intro statement
 - [x] Home page, structure
 - [x] Social Media information
-- [x] Research Lighthouse Badger (I have no need of it now)
+- [] Research Lighthouse Badger (I have no need of it now)
 - [] Projects, add relevant categories
 
 <hr>
