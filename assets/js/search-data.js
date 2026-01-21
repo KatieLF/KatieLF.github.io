@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-sourdough-tips-and-tricks",
+        },{id: "post-next-steps",
+      
+        title: "Next Steps",
+      
+      description: "an update about what is going on for me career and skill wise",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Next-Steps/";
+        
+      },
+    },{id: "post-sourdough-tips-and-tricks",
       
         title: "Sourdough tips and tricks",
       
