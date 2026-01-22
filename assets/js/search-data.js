@@ -63,6 +63,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/website-construction-process/";
         
       },
+    },{id: "post-chloe-k-39-s-kombucha-tips",
+      
+        title: "Chloe K&#39;s Kombucha tips",
+      
+      description: "an update about what is going on for me career and skill wise",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2018/Next-Chloe-Kombucha/";
+        
+      },
     },{id: "projects-fantasy-foods",
           title: 'Fantasy Foods',
           description: "A website I built for university back in 2020",
