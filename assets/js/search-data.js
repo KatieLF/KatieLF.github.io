@@ -89,6 +89,11 @@ ninja.data = [{
           description: "Websites with resources I use frequently",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Resources/";
+            },},{id: "projects-tea-ratings",
+          title: 'Tea Ratings',
+          description: "My current ratings for all the teas I&#39;ve tried (for my record mostly as enjoyment is subjective)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Tea_ratings/";
             },},{
         id: 'social-email',
         title: 'email',
