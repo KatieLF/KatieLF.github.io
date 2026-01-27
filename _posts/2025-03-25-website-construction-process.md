@@ -23,6 +23,7 @@ categories: update
 - [x] Social Media information
 - [] Research Lighthouse Badger (I have no need of it now)
 - [] Projects, add relevant categories
+- [] Add drop caps, somehow and someway
 
 <hr>
 
