@@ -94,6 +94,11 @@ ninja.data = [{
           description: "My current ratings for all the teas I&#39;ve tried (for my record mostly as enjoyment is subjective)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Tea_ratings/";
+            },},{id: "projects-tools-to-try",
+          title: 'Tools to Try',
+          description: "A list of digital tools to try in my workflow",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tools_to_try/";
             },},{
         id: 'social-email',
         title: 'email',
